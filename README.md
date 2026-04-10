@@ -61,7 +61,7 @@
 
 <a href="https://linkedin.com/in/younes-boutahir"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:boutahiryounes003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://twitter.com/BoutahirYounes"><img height="47" src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white&logoSize=25"/></a>
+<a href="https://twitter.com/BoutahirYounes"><img height="48" width="48" src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white&logoSize=25"/></a>
 
 ---
 
