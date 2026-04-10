@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=boutahir-younes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boutahir-younes&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BOUTAHIR-Younes&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOUTAHIR-Younes&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boutahir-younes&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOUTAHIR-Younes&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
