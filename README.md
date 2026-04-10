@@ -37,10 +37,6 @@
 
 **Data & Visualization**
 
-**Data & Visualization**
-
-**Data & Visualization**
-
 [![Skills](https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib)](https://skillicons.dev)
 
 **Computer Vision**
