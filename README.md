@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer;Computer+Vision+%7C+OpenCV;LLM+Engineering+%7C+RAG;Open+to+Internship+2026+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer;LLM+Engineering+%7C+RAG+%F0%9F%9A%80" />
   </a>
 </p>
 
@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Master student in **Decision-Making & Imaging Information Systems (SIDI)**
-- 🔭 Currently exploring **Computer Vision** (OpenCV) & **LLM Engineering**
+- 🎓 Master student in **Decision-Making & Imaging Information Systems**
+- 🔭 Currently exploring **Computer Vision** & **LLM Engineering**
 - 🌱 Learning advanced PyTorch, RAG pipelines & Streamlit deployment
 - 💡 I love building intelligent, data-driven applications
-- 📫 Reach me at **boutahiryounes003@gmail.com**
+- 📫 Reach me at **boutahir.younes1@gmail.com**
 
 ---
 
