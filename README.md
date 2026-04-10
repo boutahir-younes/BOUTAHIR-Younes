@@ -1,34 +1,105 @@
-<h1 align="center">Hi 👋, I'm Younes Boutahir</h1>
-<h3 align="center"> Data Scienctist Student from Morocco </h3>
+Hi 👋, I'm Younes Boutahir
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boutahir-younes&label=Profile%20views&color=0e75b6&style=flat" alt="boutahir-younes" />
-</p>
+
+Data Scientist · ML Engineer · Morocco 🇲🇦
+
+
+
+
+
+  
+
+
+
 
 ---
 
-### 👨‍🎓 About Me  
-- 🌱 I’m currently learning Machine learning and Deep learning   
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Image Processing**  
-- 💡 I love creating **data-driven and intelligent systems**  
+## 🧑‍💻 About Me
+
+- 🎓 Master student in **Decision-Making & Imaging Information Systems (SIDI)**
+- 🔭 Currently exploring **Computer Vision** (OpenCV) & **LLM Engineering**
+- 🌱 Learning advanced PyTorch, RAG pipelines & Streamlit deployment
+- 🎯 Goal: **Data Science Internship — Summer 2026**
+- 💡 I love building intelligent, data-driven applications
 - 📫 Reach me at **boutahiryounes003@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools  
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />  
-</p>
+## 🛠️ Languages & Tools
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
 
 ---
 
-### 🚀 Featured Projects  
-- 🏥 **[MediConnect](https://github.com/boutahir-younes/MediConnect)** — Smart hospital management system with an intelligent disease prediction model (MLP)  
+## 🚀 Featured Projects
+
+### 🏥 [MediConnect](https://github.com/boutahir-younes/MediConnect)
+> Smart hospital management system with intelligent disease prediction using MLP.
+> Web application with Deep Learning & NLP for diagnostic assistance.
+
+`Python` `Deep Learning` `NLP` `Flask` `MySQL`
+
+---
+
+### 🌿 EcoPlanter *(coming soon on GitHub)*
+> Intelligent garden management application — smart automation with
+> data-driven plant care recommendations powered by Computer Vision.
+
+`Python` `OpenCV` `Computer Vision` `Streamlit`
+
+---
+
+## 📊 GitHub Stats
 
 
 
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+---
+
+## 🌐 Connect with Me
+
+
+
+
+  
+  
+  
+
+
+
+
+---
+
+
+
+
+  
