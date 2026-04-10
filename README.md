@@ -37,7 +37,14 @@
 
 **Data & Visualization**
 
-[![Skills](https://skillicons.dev/icons?i=opencv,streamlit)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+<img height="48" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=150458"/>
+<img height="48" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=013243"/>
+<img height="48" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=11557C"/>
+
+**Computer Vision**
+
+[![Skills](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
 **Tools & DevOps**
 
