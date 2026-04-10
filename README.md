@@ -50,10 +50,10 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BOUTAHIR-Younes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOUTAHIR-Younes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BOUTAHIR-Younes&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
