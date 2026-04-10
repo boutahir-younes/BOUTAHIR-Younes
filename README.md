@@ -35,7 +35,7 @@
 
 **Tools & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 ---
 
 ## 🚀 Featured Project
