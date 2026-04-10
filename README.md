@@ -51,14 +51,13 @@
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 ---
 
-##  Featured Project
+## Featured Project
 
 ###  [MediConnect](https://github.com/boutahir-younes/MediConnect)
-> Smart hospital management system with intelligent disease prediction using MLP.  
-> Web application with Deep Learning & NLP for diagnostic assistance.
+> Smart hospital management system with intelligent disease prediction using a custom MLP model.
+> Full-stack web application — PHP frontend, Python/Flask AI backend, MySQL database.
 
-`Python` `Deep Learning` `NLP` `Flask` `MySQL`
-
+`Python` `Deep Learning` `MLP` `Flask` `MySQL` `PHP`
 ---
 
 ## GitHub Stats
