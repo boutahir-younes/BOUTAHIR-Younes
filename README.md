@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 - 🎓 Master student in **Decision-Making & Imaging Information Systems**
 - 🔭 Currently exploring **Computer Vision** & **LLM Engineering**
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 **Languages**
 
@@ -38,9 +38,9 @@
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🏥 [MediConnect](https://github.com/boutahir-younes/MediConnect)
+###  [MediConnect](https://github.com/boutahir-younes/MediConnect)
 > Smart hospital management system with intelligent disease prediction using MLP.  
 > Web application with Deep Learning & NLP for diagnostic assistance.
 
@@ -48,11 +48,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BOUTAHIR-Younes&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOUTAHIR-Younes&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BOUTAHIR-Younes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOUTAHIR-Younes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
