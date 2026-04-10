@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Younes Boutahir</h1>
-<h3 align="center">Data Scientist · ML Engineer · Morocco 🇲🇦</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Engineer;LLM+Engineering+%7C+RAG+%F0%9F%9A%80" />
-  </a>
-</p>
+![GitHub top language](https://img.shields.io/github/languages/top/BOUTAHIR-Younes/MediConnect?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/BOUTAHIR-Younes/MediConnect?style=flat-square)
+
+# Hi 👋, I'm Younes Boutahir
+
+### Data Scientist · ML Engineer · Morocco 🇲🇦
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Master+SIDI+%7C+Computer+Vision;LLM+Engineering+%7C+RAG;OpenCV+%7C+PyTorch+%7C+Streamlit;Open+to+Internship+2026+%F0%9F%9A%80" />
+</a>
+
+</div>
 
 ---
 
